@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-booking",
+  "version": "1.0.1",
+  "description": "Node Style Guide for Booking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/neverthanmore/eslint-config-booking",
+  "bugs": {
+    "url": "https://github.com/neverthanmore/eslint-config-booking/issues"
+  },
+  "author": {
+    "name": "neverthanmore",
+    "email": "wjwcoder@gamil.com"
+  },
+  "maintainers": [
+    {
+      "name": "neverthanmore",
+      "email": "wjwcoder@gamil.com"
+    }
+  ],
+  "files": [
+    ".eslintrc",
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverthanmore/eslint-config-booking.git"
+  },
+  "directories": {},
+  "license": "MIT"
+}
